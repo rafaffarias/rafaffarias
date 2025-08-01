@@ -2,7 +2,7 @@
 🇧🇷 🇺🇸 🇪🇸 🇷🇺 🇫🇷 
 
 <p align="left">
-  <a href="https://skillicons.dev">
+  <a>
     <img src="https://skillicons.dev/icons?i=py" />
   </a>
 </p>
