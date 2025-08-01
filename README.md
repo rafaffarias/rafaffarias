@@ -3,22 +3,15 @@
 <!-- Breve bio opcional 
 [Seu cargo] | [Tecnologias favoritas] | [Cidade/País]
 -->
-**`PROJETOS`**
+**`DESENVOLVIMENTO DE PROJETOS`**
 
-<p align="left">
-  <a href="https://github.com/seu-usuario/projeto1">Projeto 1</a>&nbsp;|&nbsp;
-  <a href="https://github.com/seu-usuario/projeto2">Projeto 2</a>
-</p>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Tensorflow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Numpy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
-<table width="100%">
-<tr><td align="center" bgcolor="#C8F3F5"><strong>🛠️ TECNOLOGIAS</strong></td></tr>
-</table>
-
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,js,react,java,html,css" />
-  </a>
-</p>
 
 **`IDIOMAS`**
 
