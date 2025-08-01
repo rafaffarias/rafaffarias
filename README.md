@@ -1,4 +1,12 @@
-## Hi there 👋
+## Rafael Farias 🇧🇷
+
+**`Projetos`**
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py" />
+  </a>
+</p>
 
 <!--
 **rafaffarias/rafaffarias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
