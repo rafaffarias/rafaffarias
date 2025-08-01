@@ -1,7 +1,5 @@
-## Rafael Farias 
+# Rafael Farias 
 🇧🇷 🇺🇸 🇪🇸 🇷🇺 🇫🇷 
-
-**`Projetos`**
 
 <p align="left">
   <a href="https://skillicons.dev">
