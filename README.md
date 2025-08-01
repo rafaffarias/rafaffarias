@@ -3,7 +3,10 @@
 <!-- Breve bio opcional 
 [Seu cargo] | [Tecnologias favoritas] | [Cidade/País]
 -->
-**`DESENVOLVIMENTO DE PROJETOS`**
+![DataScience](https://img.shields.io/badge/📊%20Ciência%20de%20Dados-22223b?style=for-the-badge&labelColor=9F4337&color=2417B6)
+![MachineLearning](https://img.shields.io/badge/🤖%20Machine%20Learning-22223b?style=for-the-badge&labelColor=9F4337&color=2417B6)
+
+***``DESENVOLVIMENTO DE PROJETOS``***
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Tensorflow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
